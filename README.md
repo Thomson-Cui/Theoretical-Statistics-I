@@ -3,7 +3,7 @@
 
 ## Required Textbook
 
-[Statistical Inference (Second Edition), by George Casella and Roger L. Berger.](https://mybiostats.wordpress.com/wp-content/uploads/2015/03/casella-berger.pdf)
+[Statistical Inference (Second Edition), by George Casella and Roger L. Berger.](https://github.com/Thomson-Cui/Theoretical-Statistics-I/blob/main/Book/textbook.pdf)
 
 ## Course Topics
 The objective of this course is to introduce to students the basic theory of probability and probability
