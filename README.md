@@ -1,5 +1,5 @@
 # Theoretical-Statistics-I
- STAT 445 Theoretical Statistics I
+STAT 445 Theoretical Statistics I
 
 ## Required Textbook
 
@@ -25,3 +25,7 @@ Families, Inequalities and Identities
 formations, Hierarchical Models and Mixture Distributions, Covariance and Correlation, Multi-variate Distributions
 ### Properties of Random Samples
 - Sums of Random Variables, Distributions derived from the Normal Distribution, Order Statistics
+
+<div align="center">
+    <img src="https://github.com/Thomson-Cui/Theoretical-Statistics-I/blob/main/Images/Table%20of%20Common%20Distribution.jpg" alt="Statistical Inference">
+</div>
