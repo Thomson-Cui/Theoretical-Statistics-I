@@ -27,5 +27,5 @@ formations, Hierarchical Models and Mixture Distributions, Covariance and Correl
 - Sums of Random Variables, Distributions derived from the Normal Distribution, Order Statistics
 
 <div align="center">
-    <img src="https://github.com/Thomson-Cui/Theoretical-Statistics-I/blob/main/Images/Table%20of%20Common%20Distribution.jpg" alt="Statistical Inference">
+    <img src="https://github.com/Thomson-Cui/Theoretical-Statistics-I/blob/main/image/Table%20of%20Common%20Distribution.jpg" alt="Statistical Inference">
 </div>
