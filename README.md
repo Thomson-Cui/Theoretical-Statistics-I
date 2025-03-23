@@ -32,5 +32,5 @@ formations, Hierarchical Models and Mixture Distributions, Covariance and Correl
 
 #### 📩 Contact
 If you spot any errors in the notes or have suggestions for improvement, feel free to reach out.
-- **Email:** [ziming](zxc701@case.edu)  
-- **Linkedin:** [ziming](https://www.linkedin.com/in/ziming-cui-487452257/)  
+- **Email:** [zxc701@case.edu](zxc701@case.edu)  
+- **Linkedin:** [https://www.linkedin.com/in/ziming-cui-487452257/](https://www.linkedin.com/in/ziming-cui-487452257/)  
